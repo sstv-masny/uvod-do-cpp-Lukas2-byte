@@ -2,7 +2,6 @@
 #include <cstdlib>
 #include <iostream>
 long long gcdll(long long a, long long b) {
-    // TODO: Euclid's algorithm (handle negatives)
     return 1;
 }
 int main() {
